@@ -1,0 +1,6 @@
+---
+- name: Execise #1
+  hosts: localhost
+
+  roles:
+    - print
